@@ -9,7 +9,7 @@ namespace Algorithms
     {
         private static void Main(string[] args)
         {
-            const int size = 20_000;
+            const int size = 1_000;
             var arrTest1 = new int[size];
             var arrTest2 = new int[size];
             var arrTest3 = new int[size];
